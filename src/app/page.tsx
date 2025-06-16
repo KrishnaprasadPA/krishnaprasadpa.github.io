@@ -3,7 +3,6 @@ import { siteConfig } from "@/config/siteConfig";
 import Experience from "@/components/Experience";
 import Education from "@/components/Education";
 import Skills from "@/components/Skills";
-import Certifications from "@/components/Certifications";
 import Contact from "@/components/Contact";
 import { projects } from "@/config/projectsConfig";
 import { ExpandableProjectCards } from "@/components/ui/ExpandableProjectCards";
